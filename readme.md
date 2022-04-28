@@ -2,6 +2,7 @@
 This is a library give you for enable-disable fast forward with rewind.
 
 `Support reactjs`
+
 ![Demo rewind fast forward](public/demo.gif)
 
 # Install
