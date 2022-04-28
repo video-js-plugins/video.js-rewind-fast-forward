@@ -1,6 +1,6 @@
 {
     "name": "@video-js-plugins/videojs-rewind-fast-forward",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is a library give you for enable-disable fast forward with rewind",
     "main": "dist/index.js",
     "module": "dist/index.es.js",
